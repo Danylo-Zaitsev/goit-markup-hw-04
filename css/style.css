@@ -362,6 +362,9 @@ ul a {
 
 }
 
+.social_icons{
+    fill: #f4f4fd;
+}
 
 .social_list{
     display: flex;
@@ -469,7 +472,7 @@ ul a {
 }
 
 .overlay_text{
-    color: #D9D9D9;
+    color: #f4f4fd;
     position: absolute;
     background: var(--IRIS, #4D5AE5);
     line-height: 1.5;
