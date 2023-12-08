@@ -574,14 +574,8 @@ ul a {
     justify-content: center;
 }
 
-.social-icon-instagram:hover,
-.social-icon-twitter:hover,
-.social-icon-facebook:hover,
-.social-icon-linkedin:hover,
-.social-icon-instagram:focus,
-.social-icon-twitter:focus,
-.social-icon-facebook:focus,
-.social-icon-linkedin:focus {
+.footer_icon_link:hover,
+.footer_icon_link:focus {
     background-color: #31d0aa;
 }
 /* ================ ФУТЕР ================ */
