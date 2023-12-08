@@ -279,6 +279,9 @@ ul a {
 }
 
 .all_icon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
     position: relative;
     width: 264px;
     height: 112px;
@@ -502,10 +505,18 @@ ul a {
     padding: 100px 0 100px
 }
 
+.footer_container{
+    display: flex;
+    align-items: baseline
+}
+
 .footer_span{
     color: #f4f4fd;
 }
 
+.logo_text_footer{
+    margin-right: 120px
+}
 
 .footer_logo{
     margin-bottom: 16px;
